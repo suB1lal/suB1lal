@@ -1,6 +1,6 @@
 [![MasterHead](https://media1.tenor.com/images/ba6d7d37fa1e4ca966ac7328bf43b96c/tenor.gif?itemid=18657810)
 <h1 align="center">Hi 👋, I'm Bilal</h1>
-<h3 align="center">A passionate frontend developer from Turkey</h3>
+<h3 align="center">A passionate Full-Stack developer from Turkey</h3>
 
 - 💬 Ask me about **Javascript,Css,Html,Linux,PHP**
 
