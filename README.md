@@ -1,8 +1,20 @@
 [![MasterHead](https://media1.tenor.com/images/ba6d7d37fa1e4ca966ac7328bf43b96c/tenor.gif?itemid=18657810)
+html
 <h1 align="center">Hi 👋, I'm Bilal</h1>
-<h3 align="center">A passionate Full-Stack developer from Turkey</h3>
+<h3 align="center">Aspiring Penetration Tester | Python Developer | Linux Enthusiast</h3>
 
-- 💬 Ask me about **Javascript,Css,Html,Linux,PHP**
+<p align="center">
+  Focused on Web Application Security, Network Security, and Penetration Testing.
+</p>
+
+- 🔐 Currently learning **Web Application Penetration Testing** and **OWASP Top 10**
+- 🐍 Programming with **Python** and exploring **JavaScript**
+- 🐧 Daily driving **Arch Linux** and learning Linux system administration
+- 🌐 Understanding **TCP/IP, DNS, HTTP/HTTPS**, and network security fundamentals
+- 🛠️ Practicing vulnerability assessment, security testing, and basic exploitation
+- 📚 Continuously improving my skills through hands-on labs and personal projects
+- 🎯 Working toward a career in **Cybersecurity and Penetration Testing**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
